@@ -5,3 +5,7 @@ for x in range(1, 10):
 
 for x in range(1, 10, 1):
     print(x, end="")
+    print("fffffff")
+
+for x in range(2,10,2):
+    print(x)
